@@ -3,3 +3,7 @@
 ``` javascript
 var testVar = "Tester code!";
 ```
+
+- [x] Go for a walk
+- [x] Eat dinner
+- [ ] Do my CS471 assignment
